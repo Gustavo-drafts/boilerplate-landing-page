@@ -3,7 +3,7 @@ import { Card } from "../Card";
 export function MainContent() {
   return (
     <div>
-      <div className="grid grid-cols-2 gap-8 p-4">
+      <div className="grid grid-cols-2 gap-8 p-4" data-aos="fade-right">
         <section className="flex flex-col text-center items-center gap-6 mb-6 max-w-full">
           <Card />
           <Card />

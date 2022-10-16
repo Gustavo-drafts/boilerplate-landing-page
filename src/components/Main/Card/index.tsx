@@ -1,6 +1,6 @@
 export function Card() {
   return (
-    <div className="shadow-sm shadow-black rounded-md p-3">
+    <div className="shadow-sm shadow-black rounded-md p-3" data-aos='fade-up'>
       <strong className="text-xl text-gray-800 items-center">
         Insira o texto aqui
         <br />
